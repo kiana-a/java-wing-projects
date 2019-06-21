@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56100335-0259-49ee-b19d-eead58bb563c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/.idea/libraries/gson_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/BookStore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/Lib/gson-2.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/bookFile.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/out/production/BookStore/run.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/out/production/BookStore/run/wing/bookstore/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/out/production/BookStore/run/wing/bookstore/controller/BookStore$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/out/production/BookStore/run/wing/bookstore/controller/BookStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/out/production/BookStore/run/wing/bookstore/model/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/out/production/BookStore/run/wing/bookstore/model/Print.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/out/production/BookStore/run/wing/bookstore/model/Publisher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/out/production/BookStore/run/wing/bookstore/view/BookView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/src/run.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/src/run/wing/bookstore/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/src/run/wing/bookstore/controller/BookStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/src/run/wing/bookstore/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/src/run/wing/bookstore/model/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/src/run/wing/bookstore/model/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BookStore/src/run/wing/bookstore/view/BookView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee.java/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee.java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee.java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee.java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee.java/Employee.java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee.java/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOSample/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOSample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOSample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOSample/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOSample/IOSample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOSample/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOSample/data2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOSample/data3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOSample/data4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOSample/out/production/IOSample/run/wing/io/sample/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOSample/src/run/wing/io/sample/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/InsertionSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/out/production/InsertionSort/com/company/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/out/production/InsertionSort/com/company/MyDuplicatesElements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/out/production/InsertionSort/com/company/MyInsertionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/out/production/InsertionSort/com/company/SortAMapByValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/src/com/company/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/src/com/company/MyDuplicatesElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/src/com/company/MyInsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/src/com/company/SinglyLinkedListImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/src/com/company/SortAMapByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/.idea/libraries/commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/JWTTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/lib/commons-codec-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/lib/gson-2.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/lib/jackson-annotations-2.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/lib/jackson-core-2.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/lib/jackson-databind-2.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/lib/java-jwt-3.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/out/production/JWTTest/JWTTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/out/production/JWTTest/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/out/production/JWTTest/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/src/JWTTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/dataSources/ff702fbe-d2ad-4ee8-92d7-30ed4b321e9a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/dataSources/ff702fbe-d2ad-4ee8-92d7-30ed4b321e9a/_metadata_/metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/dataSources/ff702fbe-d2ad-4ee8-92d7-30ed4b321e9a/_metadata_/metadata.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/dataSources/ff702fbe-d2ad-4ee8-92d7-30ed4b321e9a/_metadata_/metadata.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/dataSources/ff702fbe-d2ad-4ee8-92d7-30ed4b321e9a/_metadata_/metadata.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/dataSources/ff702fbe-d2ad-4ee8-92d7-30ed4b321e9a/_metadata_/metadata_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/dataSources/ff702fbe-d2ad-4ee8-92d7-30ed4b321e9a/_metadata_/metadata_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/dataSources/ff702fbe-d2ad-4ee8-92d7-30ed4b321e9a/_src_/schema/wing.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/dataSources/ff702fbe-d2ad-4ee8-92d7-30ed4b321e9a/storage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/libraries/mysql_connector_java_5_1_45.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/JdbcMySql.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/lib/mysql-connector-java-5.1.45.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/out/production/JdbcMySql/run/wing/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/out/production/JdbcMySql/run/wing/db/JdbcMysql.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/out/production/JdbcMySql/run/wing/model/dao/PersonDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/out/production/JdbcMySql/run/wing/model/dao/TaskDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/out/production/JdbcMySql/run/wing/model/to/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/out/production/JdbcMySql/run/wing/model/to/Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/src/run/wing/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/src/run/wing/db/JdbcMysql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/src/run/wing/model/dao/PersonDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/src/run/wing/model/dao/TaskDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/src/run/wing/model/to/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/src/run/wing/model/to/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/.idea/libraries/gson_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/JsonObjectTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/out/production/JsonObjectTest/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/out/production/JsonObjectTest/MyBody.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/out/production/JsonObjectTest/MyBody2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/out/production/JsonObjectTest/MyClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/src/MyBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/src/MyBody2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/src/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/.idea/artifacts/Matrixes_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/Matrixes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/out/artifacts/Matrixes_jar/Matrixes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/out/production/Matrixes/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/out/production/Matrixes/Bound.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/out/production/Matrixes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/out/production/Matrixes/Matrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/src/Bound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/src/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/dataSources/a7b729ec-f725-4d86-bf27-9dfa8040d2f3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/dataSources/a7b729ec-f725-4d86-bf27-9dfa8040d2f3/_metadata_/metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/dataSources/a7b729ec-f725-4d86-bf27-9dfa8040d2f3/_metadata_/metadata.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/dataSources/a7b729ec-f725-4d86-bf27-9dfa8040d2f3/_metadata_/metadata.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/dataSources/a7b729ec-f725-4d86-bf27-9dfa8040d2f3/_metadata_/metadata.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/dataSources/a7b729ec-f725-4d86-bf27-9dfa8040d2f3/_metadata_/metadata.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/dataSources/a7b729ec-f725-4d86-bf27-9dfa8040d2f3/_metadata_/metadata_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/dataSources/a7b729ec-f725-4d86-bf27-9dfa8040d2f3/_metadata_/metadata_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/dataSources/a7b729ec-f725-4d86-bf27-9dfa8040d2f3/_src_/schema/wing.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/dataSources/a7b729ec-f725-4d86-bf27-9dfa8040d2f3/storage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/libraries/commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/PoliceServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/out/production/PoliceServer/com/company/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/out/production/PoliceServer/com/company/CarBl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/out/production/PoliceServer/com/company/CarDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/out/production/PoliceServer/com/company/CarView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/out/production/PoliceServer/com/company/Color.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/out/production/PoliceServer/com/company/JdbcMysql.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/out/production/PoliceServer/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/out/production/PoliceServer/com/company/MyException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/out/production/PoliceServer/com/company/Owner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/out/production/PoliceServer/com/company/Plaque.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/out/production/PoliceServer/com/company/PlaqueDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/src/com/company/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/src/com/company/CarBl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/src/com/company/CarDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/src/com/company/CarView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/src/com/company/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/src/com/company/JdbcMysql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/src/com/company/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/src/com/company/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/src/com/company/Plaque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/src/com/company/PlaqueDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/src/com/company/response/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/RMI_Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/client.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/out/production/RMI_Client/run/wing/Data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/out/production/RMI_Client/run/wing/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/out/production/RMI_Client/run/wing/MyServices.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/src/run/wing/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/src/run/wing/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/src/run/wing/MyServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/RMI_Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/out/production/RMI_Server/run/wing/Data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/out/production/RMI_Server/run/wing/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/out/production/RMI_Server/run/wing/MyServices.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/out/production/RMI_Server/run/wing/MyServicesImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/src/run/wing/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/src/run/wing/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/src/run/wing/MyServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/src/run/wing/MyServicesImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Salary/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Salary/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Salary/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Salary/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Salary/Salary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Salary/src/run/wing/wage/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Salary/src/run/wing/wage/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Salary/src/run/wing/wage/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Salary/src/run/wing/wage/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPClint/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPClint/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPClint/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPClint/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPClint/TCPClint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPClint/out/production/TCPClint/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPClint/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPServer/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPServer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPServer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPServer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPServer/TCPServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPServer/out/production/TCPServer/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPServer/out/production/TCPServer/ClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPServer/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/.idea/artifacts/TelegramClient_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/.idea/libraries/gson_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/Lib/gson-2.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/TelegramClient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/out/artifacts/TelegramClient_jar/TelegramClient.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/out/production/TelegramClient/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/out/production/TelegramClient/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/out/production/TelegramClient/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/out/production/TelegramClient/Receive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/out/production/TelegramClient/Send.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/out/production/TelegramClient/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/src/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/src/Receive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/src/Send.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramServer/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramServer/.idea/libraries/gson_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramServer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramServer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramServer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramServer/TelegramServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramServer/out/production/TelegramServer/Application$ClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramServer/out/production/TelegramServer/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramServer/out/production/TelegramServer/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramServer/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramServer/src/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/.idea/dictionaries/kiana.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/ThreadExample1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/out/production/ThreadExample1/Application$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/out/production/ThreadExample1/Application$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/out/production/ThreadExample1/Application$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/out/production/ThreadExample1/Application$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/out/production/ThreadExample1/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/out/production/ThreadExample1/Buffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/out/production/ThreadExample1/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/out/production/ThreadExample1/Gate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/out/production/ThreadExample1/MathOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/out/production/ThreadExample1/Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/src/Buffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/src/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/src/Gate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/src/MathOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/src/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExercise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExercise/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExercise/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExercise/ThreadExercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExercise/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExercise/src/FirstThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExercise/src/SecondThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/.idea/dataSources/560d47e4-2d93-4dbe-9a67-f9b148803680.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/.idea/libraries/gson_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/Univerity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/gradeFile.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/Lib/gson-2.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/model/bl/GradeBL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/model/bl/StaffBL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/model/dao/GradeDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/model/dao/StudentDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/model/dao/SubjectDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/model/to/FieldOfStudy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/model/to/Grade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/model/to/Prof.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/model/to/Staff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/model/to/StaffJob.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/model/to/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/model/to/Subject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/profFile.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/Lib/gson-2.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/contorller/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/bl/GradeBL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/bl/ProfBL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/bl/StaffBL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/bl/StudentBL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/bl/SubjectBL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/dao/GradeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/dao/ProfDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/dao/StaffDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/dao/StudentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/dao/SubjectDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/to/FieldOfStudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/to/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/to/Prof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/to/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/to/StaffJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/to/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/to/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/view/ProfView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/view/StaffView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/view/StudentView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/view/SubjectView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/studentFile.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kiana/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kiana/KianaAhmadi_payamResan.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kiana/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kiana/client/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kiana/client/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kiana/client/Receive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kiana/client/Send.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kiana/client/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libs/commons-codec-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libs/gson-2.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libs/jackson-annotations-2.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libs/jackson-core-2.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libs/jackson-databind-2.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libs/java-jwt-3.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libs/mysql-connector-java-5.1.45.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soheilsCode/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soheilsCode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soheilsCode/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soheilsCode/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soheilsCode/soheilsCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegrambots1" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="285" />
+    <option name="y" value="53" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BookStore" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56100335-0259-49ee-b19d-eead58bb563c" name="Default Changelist" comment="" />
+      <created>1561054085443</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561054085443</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="285" y="53" width="1400" height="1000" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963072" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+</project>

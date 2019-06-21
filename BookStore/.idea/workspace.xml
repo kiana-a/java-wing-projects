@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/run/wing/bookstore/controller/BookStore.java" line="59" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b8adcc2-9160-48ba-836f-dc3a14ea96a9" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/gson_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BookStore.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lib/gson-2.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bookFile.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BookStore/run.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BookStore/run/wing/bookstore/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BookStore/run/wing/bookstore/controller/BookStore$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BookStore/run/wing/bookstore/controller/BookStore.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BookStore/run/wing/bookstore/model/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BookStore/run/wing/bookstore/model/Print.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BookStore/run/wing/bookstore/model/Publisher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/BookStore/run/wing/bookstore/view/BookView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/run.tar.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/run/wing/bookstore/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/run/wing/bookstore/controller/BookStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/run/wing/bookstore/model/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/run/wing/bookstore/model/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/run/wing/bookstore/model/Publisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/run/wing/bookstore/view/BookView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee.java/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee.java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee.java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee.java/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee.java/Employee.java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Employee.java/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloWorld/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOSample/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOSample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOSample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOSample/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOSample/IOSample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOSample/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOSample/data2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOSample/data3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOSample/data4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOSample/out/production/IOSample/run/wing/io/sample/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOSample/src/run/wing/io/sample/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/InsertionSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/out/production/InsertionSort/com/company/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/out/production/InsertionSort/com/company/MyDuplicatesElements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/out/production/InsertionSort/com/company/MyInsertionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/out/production/InsertionSort/com/company/SortAMapByValue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/src/com/company/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/src/com/company/MyDuplicatesElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/src/com/company/MyInsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/src/com/company/SinglyLinkedListImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InsertionSort/src/com/company/SortAMapByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/.idea/libraries/commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/JWTTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/lib/commons-codec-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/lib/gson-2.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/lib/jackson-annotations-2.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/lib/jackson-core-2.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/lib/jackson-databind-2.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/lib/java-jwt-3.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/out/production/JWTTest/JWTTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/out/production/JWTTest/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/out/production/JWTTest/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/src/JWTTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JWTTest/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/dataSources/ff702fbe-d2ad-4ee8-92d7-30ed4b321e9a.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/dataSources/ff702fbe-d2ad-4ee8-92d7-30ed4b321e9a/_metadata_/metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/dataSources/ff702fbe-d2ad-4ee8-92d7-30ed4b321e9a/_metadata_/metadata.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/dataSources/ff702fbe-d2ad-4ee8-92d7-30ed4b321e9a/_metadata_/metadata.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/dataSources/ff702fbe-d2ad-4ee8-92d7-30ed4b321e9a/_metadata_/metadata.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/dataSources/ff702fbe-d2ad-4ee8-92d7-30ed4b321e9a/_metadata_/metadata_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/dataSources/ff702fbe-d2ad-4ee8-92d7-30ed4b321e9a/_metadata_/metadata_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/dataSources/ff702fbe-d2ad-4ee8-92d7-30ed4b321e9a/_src_/schema/wing.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/dataSources/ff702fbe-d2ad-4ee8-92d7-30ed4b321e9a/storage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/libraries/mysql_connector_java_5_1_45.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/JdbcMySql.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/lib/mysql-connector-java-5.1.45.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/out/production/JdbcMySql/run/wing/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/out/production/JdbcMySql/run/wing/db/JdbcMysql.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/out/production/JdbcMySql/run/wing/model/dao/PersonDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/out/production/JdbcMySql/run/wing/model/dao/TaskDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/out/production/JdbcMySql/run/wing/model/to/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/out/production/JdbcMySql/run/wing/model/to/Task.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/src/run/wing/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/src/run/wing/db/JdbcMysql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/src/run/wing/model/dao/PersonDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/src/run/wing/model/dao/TaskDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/src/run/wing/model/to/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JdbcMySql/src/run/wing/model/to/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/.idea/libraries/gson_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/JsonObjectTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/out/production/JsonObjectTest/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/out/production/JsonObjectTest/MyBody.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/out/production/JsonObjectTest/MyBody2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/out/production/JsonObjectTest/MyClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/src/MyBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/src/MyBody2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JsonObjectTest/src/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/.idea/artifacts/Matrixes_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/Matrixes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/out/artifacts/Matrixes_jar/Matrixes.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/out/production/Matrixes/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/out/production/Matrixes/Bound.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/out/production/Matrixes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/out/production/Matrixes/Matrix.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/src/Bound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Matrixes/src/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/dataSources/a7b729ec-f725-4d86-bf27-9dfa8040d2f3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/dataSources/a7b729ec-f725-4d86-bf27-9dfa8040d2f3/_metadata_/metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/dataSources/a7b729ec-f725-4d86-bf27-9dfa8040d2f3/_metadata_/metadata.keystream" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/dataSources/a7b729ec-f725-4d86-bf27-9dfa8040d2f3/_metadata_/metadata.keystream.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/dataSources/a7b729ec-f725-4d86-bf27-9dfa8040d2f3/_metadata_/metadata.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/dataSources/a7b729ec-f725-4d86-bf27-9dfa8040d2f3/_metadata_/metadata.values.at" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/dataSources/a7b729ec-f725-4d86-bf27-9dfa8040d2f3/_metadata_/metadata_i" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/dataSources/a7b729ec-f725-4d86-bf27-9dfa8040d2f3/_metadata_/metadata_i.len" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/dataSources/a7b729ec-f725-4d86-bf27-9dfa8040d2f3/_src_/schema/wing.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/dataSources/a7b729ec-f725-4d86-bf27-9dfa8040d2f3/storage.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/libraries/commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/PoliceServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/out/production/PoliceServer/com/company/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/out/production/PoliceServer/com/company/CarBl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/out/production/PoliceServer/com/company/CarDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/out/production/PoliceServer/com/company/CarView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/out/production/PoliceServer/com/company/Color.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/out/production/PoliceServer/com/company/JdbcMysql.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/out/production/PoliceServer/com/company/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/out/production/PoliceServer/com/company/MyException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/out/production/PoliceServer/com/company/Owner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/out/production/PoliceServer/com/company/Plaque.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/out/production/PoliceServer/com/company/PlaqueDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/src/com/company/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/src/com/company/CarBl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/src/com/company/CarDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/src/com/company/CarView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/src/com/company/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/src/com/company/JdbcMysql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/src/com/company/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/src/com/company/Owner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/src/com/company/Plaque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/src/com/company/PlaqueDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PoliceServer/src/com/company/response/Response.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/RMI_Client.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/client.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/out/production/RMI_Client/run/wing/Data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/out/production/RMI_Client/run/wing/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/out/production/RMI_Client/run/wing/MyServices.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/src/run/wing/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/src/run/wing/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Client/src/run/wing/MyServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/RMI_Server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/out/production/RMI_Server/run/wing/Data.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/out/production/RMI_Server/run/wing/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/out/production/RMI_Server/run/wing/MyServices.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/out/production/RMI_Server/run/wing/MyServicesImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/src/run/wing/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/src/run/wing/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/src/run/wing/MyServices.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RMI_Server/src/run/wing/MyServicesImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Salary/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Salary/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Salary/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Salary/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Salary/Salary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Salary/src/run/wing/wage/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Salary/src/run/wing/wage/Print.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Salary/src/run/wing/wage/Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Salary/src/run/wing/wage/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPClint/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPClint/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPClint/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPClint/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPClint/TCPClint.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPClint/out/production/TCPClint/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPClint/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPServer/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPServer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPServer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPServer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPServer/TCPServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPServer/out/production/TCPServer/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPServer/out/production/TCPServer/ClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TCPServer/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/.idea/artifacts/TelegramClient_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/.idea/libraries/gson_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/Lib/gson-2.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/TelegramClient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/out/artifacts/TelegramClient_jar/TelegramClient.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/out/production/TelegramClient/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/out/production/TelegramClient/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/out/production/TelegramClient/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/out/production/TelegramClient/Receive.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/out/production/TelegramClient/Send.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/out/production/TelegramClient/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/src/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/src/Receive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/src/Send.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramClient/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramServer/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramServer/.idea/libraries/gson_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramServer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramServer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramServer/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramServer/TelegramServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramServer/out/production/TelegramServer/Application$ClientHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramServer/out/production/TelegramServer/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramServer/out/production/TelegramServer/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramServer/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TelegramServer/src/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/.idea/dictionaries/kiana.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/ThreadExample1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/out/production/ThreadExample1/Application$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/out/production/ThreadExample1/Application$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/out/production/ThreadExample1/Application$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/out/production/ThreadExample1/Application$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/out/production/ThreadExample1/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/out/production/ThreadExample1/Buffer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/out/production/ThreadExample1/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/out/production/ThreadExample1/Gate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/out/production/ThreadExample1/MathOperator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/out/production/ThreadExample1/Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/src/Buffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/src/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/src/Gate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/src/MathOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExample1/src/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExercise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExercise/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExercise/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExercise/ThreadExercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExercise/src/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExercise/src/FirstThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ThreadExercise/src/SecondThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/.idea/dataSources/560d47e4-2d93-4dbe-9a67-f9b148803680.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/.idea/libraries/gson_2_8_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/Univerity.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/gradeFile.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/Lib/gson-2.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/model/bl/GradeBL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/model/bl/StaffBL.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/model/dao/GradeDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/model/dao/StudentDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/model/dao/SubjectDAO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/model/to/FieldOfStudy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/model/to/Grade.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/model/to/Prof.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/model/to/Staff.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/model/to/StaffJob.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/model/to/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/out/production/Univerity/run/wing/university/model/to/Subject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/profFile.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/Lib/gson-2.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/contorller/University.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/bl/GradeBL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/bl/ProfBL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/bl/StaffBL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/bl/StudentBL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/bl/SubjectBL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/dao/GradeDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/dao/ProfDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/dao/StaffDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/dao/StudentDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/dao/SubjectDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/to/FieldOfStudy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/to/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/to/Prof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/to/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/to/StaffJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/to/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/model/to/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/view/ProfView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/view/StaffView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/view/StudentView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/src/run/wing/university/view/SubjectView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Univerity/studentFile.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kiana/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kiana/KianaAhmadi_payamResan.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kiana/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kiana/client/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kiana/client/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kiana/client/Receive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kiana/client/Send.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kiana/client/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libs/commons-codec-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libs/gson-2.8.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libs/jackson-annotations-2.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libs/jackson-core-2.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libs/jackson-databind-2.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libs/java-jwt-3.3.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../libs/mysql-connector-java-5.1.45.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soheilsCode/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soheilsCode/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soheilsCode/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soheilsCode/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../soheilsCode/soheilsCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../telegrambots1" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/run/wing/bookstore/Application.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bookFile.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/run/wing/bookstore/model/Book.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/run/wing/bookstore/model/Publisher.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+              <folding>
+                <element signature="e#210#211#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/run/wing/bookstore/controller/BookStore.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="61" column="45" lean-forward="true" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/run/wing/bookstore/view/BookView.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/run/wing/bookstore/model/Print.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Singleton" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/run/wing/bookstore/model/PublisherProperty.java" />
+        <option value="$PROJECT_DIR$/src/run/wing/bookstore/model/Publisher.java" />
+        <option value="$PROJECT_DIR$/src/run/wing/bookstore/model/Print.java" />
+        <option value="$PROJECT_DIR$/src/run/wing/bookstore/view/BookView.java" />
+        <option value="$PROJECT_DIR$/src/run/wing/bookstore/model/Book.java" />
+        <option value="$PROJECT_DIR$/src/run/wing/bookstore/Application.java" />
+        <option value="$PROJECT_DIR$/src/run/wing/bookstore/controller/BookStore.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea64.vmoptions" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="992" />
+    <option name="y" value="27" />
+    <option name="width" value="928" />
+    <option name="height" value="1053" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="run.wing.bookstore.Application" />
+      <module name="BookStore" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="run.wing.bookstore.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <module name="" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b8adcc2-9160-48ba-836f-dc3a14ea96a9" name="Default" comment="" />
+      <created>1507797232163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507797232163</updated>
+      <workItem from="1507797236793" duration="2657000" />
+      <workItem from="1507818094471" duration="700000" />
+      <workItem from="1507828594805" duration="2114000" />
+      <workItem from="1507832035513" duration="1398000" />
+      <workItem from="1507874943793" duration="2974000" />
+      <workItem from="1508010966103" duration="2313000" />
+      <workItem from="1508179661815" duration="2402000" />
+      <workItem from="1508250448804" duration="537000" />
+      <workItem from="1508260645015" duration="1378000" />
+      <workItem from="1508303207421" duration="16706000" />
+      <workItem from="1508340048189" duration="4248000" />
+      <workItem from="1508391779692" duration="1345000" />
+      <workItem from="1508611141485" duration="1294000" />
+      <workItem from="1508687059037" duration="1845000" />
+      <workItem from="1508782131701" duration="1206000" />
+      <workItem from="1508832728706" duration="4507000" />
+      <workItem from="1508859177867" duration="4154000" />
+      <workItem from="1508908456183" duration="5848000" />
+      <workItem from="1508993633276" duration="690000" />
+      <workItem from="1509042068840" duration="2599000" />
+      <workItem from="1509085610981" duration="1268000" />
+      <workItem from="1509124896507" duration="3885000" />
+      <workItem from="1509166981506" duration="246000" />
+      <workItem from="1509172726728" duration="17000" />
+      <workItem from="1509203033927" duration="242000" />
+      <workItem from="1512615255490" duration="588000" />
+      <workItem from="1560973028453" duration="223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="67991000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="51" y="25" width="1869" height="1055" extended-state="6" />
+    <layout>
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16730663" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Designer" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Image Layers" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3434555" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.2563581" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Properties" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Maven" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/run/wing/bookstore/model/PublisherProperty.java" />
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/util/function/Function.class" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea64.vmoptions" />
+    <entry file="file://$PROJECT_DIR$/src/run/wing/bookstore/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookFile.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/run/wing/bookstore/model/Book.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/run/wing/bookstore/model/Publisher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/run/wing/bookstore/view/BookView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/run/wing/bookstore/model/Print.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/run/wing/bookstore/controller/BookStore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="61" column="45" lean-forward="true" selection-start-line="61" selection-start-column="45" selection-end-line="61" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>BookStore</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>gson-2.8.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
